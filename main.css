@@ -3,18 +3,7 @@
     margin: 0 ;
     padding: 0;
 }
-h1 {
-    color: rgb(0, 255, 98);
-}
-h2 {
-    color: green
-}
 
-#economia h2 {
-    color: gold
-}
+header li{
 
-.creation-date {
-    color:lightgrey
 }
-
